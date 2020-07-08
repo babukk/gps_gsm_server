@@ -1,0 +1,15 @@
+Django
+libscrc
+psycopg2
+# passlib
+pytz
+django-rest-swagger
+djangorestframework
+django-cors-headers
+# djangorestframework_jwt
+djangorestframework_simplejwt
+drf-yasg
+django-crispy-forms
+djangorestframework-gis
+django-cors-headers
+gunicorn
